@@ -1,0 +1,30 @@
+
+
+
+body{
+    margin: 0;
+}
+
+
+header{
+    background-color: lightcyan;
+
+    padding-block: 2rem;
+    padding-inline: 1rem;
+}
+
+
+section{
+    background-color:aliceblue;
+
+
+}
+
+.primary-navigation{
+    display: flex;
+    
+    gap: 1rem; /*separerar*/
+    
+    list-style: none;
+    color:black;
+}
